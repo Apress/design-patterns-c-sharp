@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.exe.config
+C:\CPPprogs\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.exe
+C:\CPPprogs\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.exe
+C:\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.csproj.CoreCompileInputs.cache

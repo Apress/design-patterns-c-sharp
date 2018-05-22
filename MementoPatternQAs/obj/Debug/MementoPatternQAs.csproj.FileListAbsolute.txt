@@ -1,0 +1,7 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\bin\Debug\MementoPatternQAs.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\bin\Debug\MementoPatternQAs.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\bin\Debug\MementoPatternQAs.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\obj\Debug\MementoPatternQAs.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\obj\Debug\MementoPatternQAs.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\obj\Debug\MementoPatternQAs.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MementoPatternQAs\obj\Debug\MementoPatternQAs.csproj.CoreCompileInputs.cache

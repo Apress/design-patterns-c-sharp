@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\BridgePattern\bin\Debug\BridgePattern.exe
+C:\CPPprogs\ConsoleApplication1\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.exe
+C:\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache

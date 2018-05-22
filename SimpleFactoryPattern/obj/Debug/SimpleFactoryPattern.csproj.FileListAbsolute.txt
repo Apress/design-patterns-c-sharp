@@ -1,0 +1,7 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\obj\Debug\FactoryPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\obj\Debug\FactoryPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csproj.CoreCompileInputs.cache

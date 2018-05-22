@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\CPPprogs\ConsoleApplication1\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\CPPprogs\ConsoleApplication1\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache

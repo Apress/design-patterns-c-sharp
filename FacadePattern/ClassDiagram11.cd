@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FacadePattern.Program">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadePattern.RobotFacade">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEAAAAAAAEAAAAAAAAAAAgAAABAACAEAAAAAA=</HashCode>
+      <FileName>RobotFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadePattern.RobotParts.RobotBody">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAABAAAAAAAAAAAAQAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>RobotParts\RobotBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadePattern.RobotParts.RobotColor">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>RobotParts\RobotColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadePattern.RobotParts.RobotHands">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RobotParts\RobotHands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

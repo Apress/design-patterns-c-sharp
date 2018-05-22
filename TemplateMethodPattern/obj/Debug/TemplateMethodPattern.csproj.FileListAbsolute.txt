@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\CPPprogs\ConsoleApplication1\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.CoreCompileInputs.cache

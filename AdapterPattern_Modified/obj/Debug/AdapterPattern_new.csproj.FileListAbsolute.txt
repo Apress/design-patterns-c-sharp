@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\AdapterPattern_new\obj\Debug\AdapterPattern_new.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\AdapterPattern_new\bin\Debug\AdapterPattern_new.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\AdapterPattern_new\bin\Debug\AdapterPattern_new.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\AdapterPattern_new\bin\Debug\AdapterPattern_new.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\AdapterPattern_new\obj\Debug\AdapterPattern_new.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\AdapterPattern_new\obj\Debug\AdapterPattern_new.pdb

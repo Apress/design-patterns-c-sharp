@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\FlyweightPatternModified\bin\Debug\FlyweightPatternModified.exe.config
+C:\CPPprogs\ConsoleApplication1\FlyweightPatternModified\bin\Debug\FlyweightPatternModified.exe
+C:\CPPprogs\ConsoleApplication1\FlyweightPatternModified\bin\Debug\FlyweightPatternModified.pdb
+C:\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.exe
+C:\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.pdb
+C:\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\bin\Debug\FlyweightPatternModified.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\bin\Debug\FlyweightPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\bin\Debug\FlyweightPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FlyweightPatternModified\obj\Debug\FlyweightPatternModified.csproj.CoreCompileInputs.cache

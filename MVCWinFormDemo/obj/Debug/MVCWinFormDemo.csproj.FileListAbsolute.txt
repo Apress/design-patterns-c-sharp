@@ -1,0 +1,10 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\bin\Debug\MVCWinFormDemo.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\bin\Debug\MVCWinFormDemo.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\bin\Debug\MVCWinFormDemo.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.Properties.Resources.resources
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.csproj.GenerateResource.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.StudentForm.resources
+C:\Feluda_June12,2017Onwards\MyPrograms\VS2013Projects\MVCTestSolution\MVCWinFormDemo\obj\Debug\MVCWinFormDemo.csproj.CoreCompileInputs.cache

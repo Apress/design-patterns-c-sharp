@@ -1,0 +1,7 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\bin\Debug\PrototypePatternQAs.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\bin\Debug\PrototypePatternQAs.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\bin\Debug\PrototypePatternQAs.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\obj\Debug\PrototypePatternQAs.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\obj\Debug\PrototypePatternQAs.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\obj\Debug\PrototypePatternQAs.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\PrototypePatternQAs\obj\Debug\PrototypePatternQAs.csproj.CoreCompileInputs.cache

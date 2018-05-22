@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FactoryPatternModified\bin\Debug\FactoryPatternModified.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FactoryPatternModified\bin\Debug\FactoryPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FactoryPatternModified\bin\Debug\FactoryPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FactoryPatternModified\obj\Debug\FactoryPatternModified.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FactoryPatternModified\obj\Debug\FactoryPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FactoryPatternModified\obj\Debug\FactoryPatternModified.pdb

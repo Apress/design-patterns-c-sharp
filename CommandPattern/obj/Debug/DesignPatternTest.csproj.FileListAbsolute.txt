@@ -1,0 +1,6 @@
+C:\CPPprogs\ConsoleApplication1\DesignPatternTest\bin\Debug\DesignPatternTest.exe.config
+C:\CPPprogs\ConsoleApplication1\DesignPatternTest\bin\Debug\DesignPatternTest.exe
+C:\CPPprogs\ConsoleApplication1\DesignPatternTest\bin\Debug\DesignPatternTest.pdb
+C:\CPPprogs\ConsoleApplication1\DesignPatternTest\obj\Debug\DesignPatternTest.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\DesignPatternTest\obj\Debug\DesignPatternTest.exe
+C:\CPPprogs\ConsoleApplication1\DesignPatternTest\obj\Debug\DesignPatternTest.pdb

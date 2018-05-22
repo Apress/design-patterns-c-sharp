@@ -1,0 +1,7 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\bin\Debug\MediatorPattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\bin\Debug\MediatorPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\bin\Debug\MediatorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\obj\Debug\MediatorPatternQAs.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\obj\Debug\MediatorPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\obj\Debug\MediatorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\MediatorPatternQAs\obj\Debug\MediatorPatternQAs.csproj.CoreCompileInputs.cache

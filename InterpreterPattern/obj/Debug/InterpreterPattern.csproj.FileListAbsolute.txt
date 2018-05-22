@@ -1,0 +1,7 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\bin\Debug\InterpreterPatternModified.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\bin\Debug\InterpreterPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\bin\Debug\InterpreterPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\obj\Debug\InterpreterPatternModified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\obj\Debug\InterpreterPatternModified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\InterpreterPattern\obj\Debug\InterpreterPattern.csproj.CoreCompileInputs.cache

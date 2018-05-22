@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FacadePattern_old\bin\Debug\FacadePattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FacadePattern_old\bin\Debug\FacadePattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FacadePattern_old\bin\Debug\FacadePattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FacadePattern_old\obj\Debug\FacadePattern_old.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FacadePattern_old\obj\Debug\FacadePattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\FacadePattern_old\obj\Debug\FacadePattern.pdb

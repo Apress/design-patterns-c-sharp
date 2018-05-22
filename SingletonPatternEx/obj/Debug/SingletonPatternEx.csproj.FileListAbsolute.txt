@@ -1,0 +1,7 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\bin\Debug\SingletonPatternEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.csproj.CoreCompileInputs.cache

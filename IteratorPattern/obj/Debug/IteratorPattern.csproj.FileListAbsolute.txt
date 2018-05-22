@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\CPPprogs\ConsoleApplication1\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\CPPprogs\ConsoleApplication1\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache

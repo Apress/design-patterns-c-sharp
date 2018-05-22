@@ -1,0 +1,6 @@
+C:\CPPprogs\ConsoleApplication1\FliweightPattern3\bin\Debug\FliweightPattern3.exe.config
+C:\CPPprogs\ConsoleApplication1\FliweightPattern3\bin\Debug\FliweightPattern3.exe
+C:\CPPprogs\ConsoleApplication1\FliweightPattern3\bin\Debug\FliweightPattern3.pdb
+C:\CPPprogs\ConsoleApplication1\FliweightPattern3\obj\Debug\FliweightPattern3.csprojResolveAssemblyReference.cache
+C:\CPPprogs\ConsoleApplication1\FliweightPattern3\obj\Debug\FliweightPattern3.exe
+C:\CPPprogs\ConsoleApplication1\FliweightPattern3\obj\Debug\FliweightPattern3.pdb

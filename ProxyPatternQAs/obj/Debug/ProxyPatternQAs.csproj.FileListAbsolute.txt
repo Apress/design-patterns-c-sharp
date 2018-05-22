@@ -1,0 +1,13 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQandA\bin\Debug\ProxyPatternQandA.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQandA\bin\Debug\ProxyPatternQandA.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQandA\bin\Debug\ProxyPatternQandA.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQandA\obj\Debug\ProxyPatternQandA.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQandA\obj\Debug\ProxyPatternQandA.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQandA\obj\Debug\ProxyPatternQAs.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\bin\Debug\ProxyPatternQandA.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\bin\Debug\ProxyPatternQandA.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\bin\Debug\ProxyPatternQandA.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\obj\Debug\ProxyPatternQAs.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\obj\Debug\ProxyPatternQandA.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\obj\Debug\ProxyPatternQandA.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\ProxyPatternQAs\obj\Debug\ProxyPatternQAs.csproj.CoreCompileInputs.cache

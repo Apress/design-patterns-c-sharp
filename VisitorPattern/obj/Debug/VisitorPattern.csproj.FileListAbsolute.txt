@@ -1,0 +1,13 @@
+C:\CPPprogs\ConsoleApplication1\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+C:\CPPprogs\ConsoleApplication1\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\CPPprogs\ConsoleApplication1\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.exe
+C:\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.pdb
+C:\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\VisitorPattern\obj\Debug\VisitorPattern.csproj.CoreCompileInputs.cache
