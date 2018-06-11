@@ -27,7 +27,14 @@ namespace IteratorPattern.Iterator
 
         public bool IsDone()
         {
-            return position >= Subjects.Count;
+           if (position < Subjects.Count)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
 
         public string CurrentItem()
