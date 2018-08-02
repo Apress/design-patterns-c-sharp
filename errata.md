@@ -35,6 +35,7 @@ state, so Mute operation will not work.");
 }
 //Some code after
 }
+
 **Chapter 20 State Pattern**
 On **page 277** [Unwanted comment]:
 Please ignore the comment line:
@@ -42,6 +43,6 @@ Please ignore the comment line:
 
 **Chapter 20 State Pattern**
 On **page 274** [Unwanted comment]:
-Please ignorethe comment line below or update it as:
+Please ignore the comment line below or update it as:
 //Initially we'll start from Off state **in this implementation**
 
