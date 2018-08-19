@@ -1,5 +1,25 @@
 # Errata for *Design Patterns in C# : A Hands-on Guide with Real-World Examples*
 
+**Chapter 10 Flyweight Pattern**
+On **page 135** [Typo]:
+ 
+default case should be as follows:
+default:
+throw new Exception("Robot Factory can create only **small** and **large** type robots");
+
+**Chapter 10 Flyweight Pattern**
+On **page 136** [Typo]:
+ 
+Please remove the unwanted line:
+//System.out.println("\nDistinct Robot objects created till
+now= "+ NumOfDistinctRobots);
+
+**Chapter 10 Flyweight Pattern**
+On **page 140** [Typo]:
+ 
+ Replace the word "If" with "Is".
+2. **Is** there any impact because of multithreading?
+
 **Chapter 15 Strategy(Ploicy) Pattern**
 On **page 204** [Typo]:
  
